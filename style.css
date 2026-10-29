@@ -9,3 +9,37 @@
 
    We'll write styles here starting Monday.
    ========================================================== */
+body {
+  background: rgb(66, 230, 16);
+  color: rgb(7, 7, 7);
+}
+p {
+  font-family:serif;
+  margin: 10px;
+  font-size: 14px;
+}
+h1 {
+  font-weight:lighter;
+}
+
+h2 {
+  font-weight: lighter;
+}
+
+h3 { 
+    
+}
+h4 {
+  font-family: sans-serif
+}
+h5 {
+  font-family:serif;
+  text-align: right;
+}
+h6 {
+  font-style: italic;
+}
+
+hr {
+  width: 100%;
+}
